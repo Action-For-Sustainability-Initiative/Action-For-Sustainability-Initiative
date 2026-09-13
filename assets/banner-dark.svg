@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="AFOSI — Action for Sustainability Initiative. Technology for a greener world.">
+<rect width="1200" height="440" fill="#0B0B0D"/>
+<g stroke="#F6F1E8" stroke-opacity="0.06" stroke-width="1">
+<line x1="60.5" y1="0" x2="60.5" y2="440"/>
+<line x1="120.5" y1="0" x2="120.5" y2="440"/>
+<line x1="180.5" y1="0" x2="180.5" y2="440"/>
+<line x1="240.5" y1="0" x2="240.5" y2="440"/>
+<line x1="300.5" y1="0" x2="300.5" y2="440"/>
+<line x1="360.5" y1="0" x2="360.5" y2="440"/>
+<line x1="420.5" y1="0" x2="420.5" y2="440"/>
+<line x1="480.5" y1="0" x2="480.5" y2="440"/>
+<line x1="540.5" y1="0" x2="540.5" y2="440"/>
+<line x1="600.5" y1="0" x2="600.5" y2="440"/>
+<line x1="660.5" y1="0" x2="660.5" y2="440"/>
+<line x1="720.5" y1="0" x2="720.5" y2="440"/>
+<line x1="780.5" y1="0" x2="780.5" y2="440"/>
+<line x1="840.5" y1="0" x2="840.5" y2="440"/>
+<line x1="900.5" y1="0" x2="900.5" y2="440"/>
+<line x1="960.5" y1="0" x2="960.5" y2="440"/>
+<line x1="1020.5" y1="0" x2="1020.5" y2="440"/>
+<line x1="1080.5" y1="0" x2="1080.5" y2="440"/>
+<line x1="1140.5" y1="0" x2="1140.5" y2="440"/>
+<line x1="0" y1="60.5" x2="1200" y2="60.5"/>
+<line x1="0" y1="120.5" x2="1200" y2="120.5"/>
+<line x1="0" y1="180.5" x2="1200" y2="180.5"/>
+<line x1="0" y1="240.5" x2="1200" y2="240.5"/>
+<line x1="0" y1="300.5" x2="1200" y2="300.5"/>
+<line x1="0" y1="360.5" x2="1200" y2="360.5"/>
+<line x1="0" y1="420.5" x2="1200" y2="420.5"/>
+</g>
+<rect x="0" y="0" width="560" height="6" fill="#FF7A3D"/>
+<rect x="560" y="0" width="180" height="6" fill="#57BE7C"/>
+<rect x="740" y="0" width="460" height="6" fill="#F6F1E8" fill-opacity="0.18"/>
+<rect x="64" y="62" width="8" height="8" transform="rotate(45 68 66)" fill="#FF7A3D"/>
+<text x="88" y="71" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="13" letter-spacing="2.6" fill="#F6F1E8" fill-opacity="0.52">ACTION FOR SUSTAINABILITY INITIATIVE</text>
+<text x="62" y="162" font-family="Inter,&apos;Helvetica Neue&apos;,Helvetica,&apos;Segoe UI&apos;,Arial,system-ui,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#F6F1E8">Technology for a</text>
+<text x="62" y="232" font-family="Inter,&apos;Helvetica Neue&apos;,Helvetica,&apos;Segoe UI&apos;,Arial,system-ui,sans-serif" font-size="62" font-weight="700" letter-spacing="-2"><tspan fill="#57BE7C">greener</tspan><tspan fill="#F6F1E8"> world.</tspan></text>
+<line x1="64" y1="266.5" x2="404" y2="266.5" stroke="#F6F1E8" stroke-opacity="0.14" stroke-width="1"/>
+<text x="64" y="294" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.5" letter-spacing="1.8" fill="#F6F1E8" fill-opacity="0.52">EST. 2012  ·  NAIROBI, KENYA  ·  47 COUNTIES</text>
+<line x1="820.5" y1="76" x2="820.5" y2="300" stroke="#F6F1E8" stroke-opacity="0.14" stroke-width="1"/>
+<rect x="860" y="92" width="6" height="6" fill="#FF7A3D" fill-opacity="1"/>
+<text x="880" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.5" letter-spacing="1.6" fill="#F6F1E8" fill-opacity="0.70">HEALTH</text>
+<rect x="860" y="126" width="6" height="6" fill="#F6F1E8" fill-opacity="0.35"/>
+<text x="880" y="134" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.5" letter-spacing="1.6" fill="#F6F1E8" fill-opacity="0.70">EDUCATION</text>
+<rect x="860" y="160" width="6" height="6" fill="#57BE7C" fill-opacity="1"/>
+<text x="880" y="168" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.5" letter-spacing="1.6" fill="#F6F1E8" fill-opacity="0.70">ENVIRONMENT</text>
+<rect x="860" y="194" width="6" height="6" fill="#FF7A3D" fill-opacity="1"/>
+<text x="880" y="202" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.5" letter-spacing="1.6" fill="#F6F1E8" fill-opacity="0.70">LIVELIHOODS</text>
+<rect x="860" y="228" width="6" height="6" fill="#F6F1E8" fill-opacity="0.35"/>
+<text x="880" y="236" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.5" letter-spacing="1.6" fill="#F6F1E8" fill-opacity="0.70">LEADERSHIP &amp; GOVERNANCE</text>
+<rect x="860" y="262" width="6" height="6" fill="#57BE7C" fill-opacity="1"/>
+<text x="880" y="270" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.5" letter-spacing="1.6" fill="#F6F1E8" fill-opacity="0.70">HUMANITARIAN</text>
+<line x1="0" y1="336.5" x2="1200" y2="336.5" stroke="#F6F1E8" stroke-opacity="0.14" stroke-width="1"/>
+<line x1="324.5" y1="356" x2="324.5" y2="412" stroke="#F6F1E8" stroke-opacity="0.14" stroke-width="1"/>
+<line x1="604.5" y1="356" x2="604.5" y2="412" stroke="#F6F1E8" stroke-opacity="0.14" stroke-width="1"/>
+<line x1="884.5" y1="356" x2="884.5" y2="412" stroke="#F6F1E8" stroke-opacity="0.14" stroke-width="1"/>
+<text x="64" y="392" font-family="Inter,&apos;Helvetica Neue&apos;,Helvetica,&apos;Segoe UI&apos;,Arial,system-ui,sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#F6F1E8">350,000+</text>
+<text x="64" y="415" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="10.5" letter-spacing="1.9" fill="#F6F1E8" fill-opacity="0.52">BENEFICIARIES REACHED</text>
+<text x="344" y="392" font-family="Inter,&apos;Helvetica Neue&apos;,Helvetica,&apos;Segoe UI&apos;,Arial,system-ui,sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#F6F1E8">846+</text>
+<text x="344" y="415" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="10.5" letter-spacing="1.9" fill="#F6F1E8" fill-opacity="0.52">JOBS CREATED</text>
+<text x="624" y="392" font-family="Inter,&apos;Helvetica Neue&apos;,Helvetica,&apos;Segoe UI&apos;,Arial,system-ui,sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#F6F1E8">151+</text>
+<text x="624" y="415" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="10.5" letter-spacing="1.9" fill="#F6F1E8" fill-opacity="0.52">YOUTH ENTERPRISES</text>
+<text x="904" y="392" font-family="Inter,&apos;Helvetica Neue&apos;,Helvetica,&apos;Segoe UI&apos;,Arial,system-ui,sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#F6F1E8">14+</text>
+<text x="904" y="415" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="10.5" letter-spacing="1.9" fill="#F6F1E8" fill-opacity="0.52">YEARS OF IMPACT</text>
+</svg>
