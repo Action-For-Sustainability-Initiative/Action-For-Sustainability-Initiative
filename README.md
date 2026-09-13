@@ -39,12 +39,22 @@ tracked, repeatable, and still recognisably human on the ground.
 
 Four products, built and operated in-house. This is the delivery layer underneath every program below.
 
-| | Platform | What it does |
-|---|---|---|
-| **Climate** | [**Kenya Youth Climate Hub**](https://kenyayouthclimatehub.org) | The national digital home of Kenya's youth climate movement — connecting young climate actors to data, funding and coordinated advocacy. |
-| **Civic learning** | [**Kiongozi Platform**](https://kiongozi.org) | Leadership, governance and green-economy training for Kenyans aged 15–35, linking learners to opportunities and community data. |
-| **Enterprise** | [**Afosi Hub**](https://afosihub.com) | A digital innovation sandbox where youth move from theory to shipping real software, AI and civic-tech — and where youth enterprises launch, track and grow. |
-| **Mobile** | [**Kiongozi Chat**](https://play.google.com/store/apps/details?id=com.kiongozi.mobile) | An AI-powered civic education and social learning app covering governance, the Constitution and the green economy. Kiongozi, in your pocket. |
+**[Kenya Youth Climate Hub](https://kenyayouthclimatehub.org)** — the national digital home of Kenya's youth
+climate movement, connecting young climate actors to data, funding and coordinated advocacy.
+<br><sub>CLIMATE · kenyayouthclimatehub.org</sub>
+
+**[Kiongozi Platform](https://kiongozi.org)** — leadership, governance and green-economy training for Kenyans
+aged 15–35, linking learners to opportunities and community data.
+<br><sub>CIVIC LEARNING · kiongozi.org</sub>
+
+**[Afosi Hub](https://afosihub.com)** — a digital innovation sandbox where youth move from theory to shipping
+real software, AI and civic-tech, and where youth enterprises launch, track and grow.
+<br><sub>ENTERPRISE · afosihub.com</sub>
+
+**[Kiongozi Chat](https://play.google.com/store/apps/details?id=com.kiongozi.mobile)** — an AI-powered civic
+education and social learning app covering governance, the Constitution and the green economy. Kiongozi, in
+your pocket.
+<br><sub>MOBILE · Google Play</sub>
 
 ---
 
@@ -53,16 +63,37 @@ Four products, built and operated in-house. This is the delivery layer underneat
 Eight initiatives across six pillars — **Health, Education, Environment, Livelihoods, Leadership &
 Governance, Humanitarian** — each designed to be measured, scaled and sustained rather than delivered once.
 
-| Program | Focus | Where | Status | Reach |
-|---|---|---|---|---|
-| **We Lead** | SRH-R leadership for young women living with HIV, with disabilities, or affected by displacement | Kenya | Ongoing | 500+ |
-| **The M.A.T.H Project** | *Mazingira, Afya, Tumaini na Haki yetu* — environment, health, hope and rights, plus advocacy on Kenya's ESD Policy | 60 APBET schools, Kibera & Mukuru | 2025–2028 | 10,000+ |
-| **Sheria ya Vijana** | Skills, leadership and participation in the green and digital economy; apprenticeships and youth-led enterprise grants | Nairobi & Kwale | Ongoing | 5,875 |
-| **Youth Voices Lab** | *Unheard to Influential* — AI-driven storytelling and policy advocacy with young women living with HIV and with disabilities | Mukuru, Nairobi | 12 months | 150+ |
-| **Robotics & Creative Coding** | Robotics, creative coding and digital innovation in informal settlements, with STEM Impact Center Kenya | Nairobi | 12 months | 300+ |
-| **Forest Explorer** | Game-based learning — curriculum content rebuilt as an explorable world with quests, reward loops and virtual ecosystems | Kenya | Ongoing | 100+ |
-| **AI-Powered Music-Based Learning** | Learning set to music, cut into 30-second videos built for short-form platforms | Kenya | Coming soon | 100+ |
-| **YOMA** | A digital marketplace giving young people a digital identity to learn, earn and impact their communities | Nairobi, Kisumu, Mombasa | Closed | 69,000 |
+**We Lead** — SRH-R leadership for young women living with HIV, with disabilities, or affected by
+displacement.
+<br><sub>ONGOING · KENYA · 500+ REACHED</sub>
+
+**The M.A.T.H Project** — *Mazingira, Afya, Tumaini na Haki yetu.* Environment, health, hope and rights,
+alongside advocacy on Kenya's Education for Sustainable Development policy.
+<br><sub>2025–2028 · 60 APBET SCHOOLS, KIBERA & MUKURU · 10,000+ REACHED</sub>
+
+**Sheria ya Vijana** — skills, leadership and participation in the green and digital economy, through
+apprenticeships, mentorship and youth-led enterprise grants.
+<br><sub>ONGOING · NAIROBI & KWALE · 5,875 REACHED</sub>
+
+**Youth Voices Lab** — *Unheard to Influential.* AI-driven storytelling and policy advocacy that turns young
+women living with HIV and with disabilities from subjects of policy into authors of it.
+<br><sub>12 MONTHS · MUKURU, NAIROBI · 150+ REACHED</sub>
+
+**Robotics & Creative Coding** — robotics, creative coding and digital innovation in informal settlements,
+with STEM Impact Center Kenya.
+<br><sub>12 MONTHS · NAIROBI · 300+ REACHED</sub>
+
+**Forest Explorer** — game-based learning: curriculum content rebuilt as an explorable world of quests,
+reward loops and virtual ecosystems.
+<br><sub>ONGOING · KENYA · 100+ REACHED</sub>
+
+**AI-Powered Music-Based Learning** — lessons set to music and cut into 30-second videos built for
+short-form platforms.
+<br><sub>COMING SOON · KENYA · 100+ REACHED</sub>
+
+**YOMA** — a digital marketplace giving young people a digital identity to learn, earn and impact their
+communities.
+<br><sub>CLOSED · NAIROBI, KISUMU & MOMBASA · 69,000 REACHED</sub>
 
 ---
 
